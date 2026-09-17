@@ -1,0 +1,6 @@
+{
+  "name": "STAR PhishGuard",
+  "description": "Simple, clean, and AI-powered phishing detection and email security assistant for everyday users.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
